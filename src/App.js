@@ -12,7 +12,7 @@ class App extends Component{
       <div>
         <Layout>
           <BurgerBuilder />          
-          <p>8th module 28th video start</p>
+          <p>10th module 8th video start</p>
         </Layout>
       </div>
       );
