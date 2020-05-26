@@ -18,7 +18,7 @@ class App extends Component {
             <Route path="/auth" component={Auth}/>
             <Route path="/" exact component={BurgerBuilder} />
           </Switch>
-          <p>17th module 9th video start</p>
+          <p>18th module 7th video start</p>
         </Layout>
       </div>
     );
